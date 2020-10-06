@@ -12,3 +12,6 @@
 /coverity-scan.tar.xz
 /cov-submit-data*.sh
 *.o
+.DS_Store
+.idea
+
